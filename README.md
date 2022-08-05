@@ -56,19 +56,14 @@
   <a href="[https://www.raspberrypi.org](https://visualstudio.microsoft.com/)/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 </div>
 
+### 🛠 Productivity Software
+<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
-## :pushpin:
+
+## :pushpin: Learning
 
 
-Learning  : &ensp; &ensp;Processor architecture & design :pager:<br /> 
-          &emsp; &emsp; &emsp; &emsp; &ensp; 
-          Real time operating system :abacus: <br /> 
-          &emsp; &emsp; &emsp; &emsp; &ensp; 
-          Embedded firmware development :vhs: <br /> 
-          &emsp; &emsp; &emsp; &emsp; &ensp; 
-          Linux Architecture 🌱 <br /> 
-:<table align="center">
+<table align="center">
       <tr><td> :pager: Processor architecture & design</td> <td> :vhs: Real time operating system</td></tr>
       <tr><td> :abacus: Embedded firmware development</td> <td>🌱 Linux Architecture</td></tr>
-      <tr><td> Writing</td> <td> Movies Buff</td></tr>
       </table>
