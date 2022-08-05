@@ -1,5 +1,3 @@
-
-  
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height="74" />
@@ -13,6 +11,7 @@
 :man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
 
 
+
 ## 📇 Social & Contact
 
 <div align="left">
@@ -23,8 +22,9 @@
   <a href="https://github.com/djsony240" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 </div>  
 
-## ⚙ Skills
 
+
+## ⚙ Skills
 
 ### 👨‍💻 Programming
 
@@ -56,8 +56,8 @@
   <a href="[https://www.raspberrypi.org](https://visualstudio.microsoft.com/)/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 </div>
 
-:man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
-:phone: &ensp;+9978534367 &emsp;  :envelope: djsony240@gmail.com  &emsp;  &ensp;:link: https://www.linkedin.com/in/djsony240
+
+## :pushpin:
 
 
 Learning  : &ensp; &ensp;Processor architecture & design :pager:<br /> 
@@ -67,8 +67,8 @@ Learning  : &ensp; &ensp;Processor architecture & design :pager:<br />
           Embedded firmware development :vhs: <br /> 
           &emsp; &emsp; &emsp; &emsp; &ensp; 
           Linux Architecture 🌱 <br /> 
-
-
-  <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+:<table align="center">
+      <tr><td> :pager: Processor architecture & design</td> <td> :vhs: Real time operating system</td></tr>
+      <tr><td> :abacus: Embedded firmware development</td> <td>🌱 Linux Architecture</td></tr>
+      <tr><td> Writing</td> <td> Movies Buff</td></tr>
+      </table>
