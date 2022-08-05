@@ -1,16 +1,13 @@
-### Hi there 👋
+:man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
+:phone: &ensp;+9978534367 &emsp;  :envelope: djsony240@gmail.com  &emsp;  &ensp;:link: https://www.linkedin.com/in/djsony240
 
-<!--
-**djsony240/djsony240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Learning  : &ensp; &ensp;Processor architecture & design :pager:<br /> 
+          &emsp; &emsp; &emsp; &emsp; &ensp; 
+          Real time operating system :abacus: <br /> 
+          &emsp; &emsp; &emsp; &emsp; &ensp; 
+          Embedded firmware development :vhs: <br /> 
+          &emsp; &emsp; &emsp; &emsp; &ensp; 
+          Linux Architecture 🌱 <br /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
