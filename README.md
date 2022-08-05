@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="https://media.giphy.com/media/W6jfN7vS0jJTyehuuC/giphy.gif" width="100"/>
-</p>
-  
+
 # HELLO!  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> I'm DHAVAL SONI
 
 <!--
@@ -9,7 +6,9 @@
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height="74" />
 </div>
 -->
-
+<p align="center">
+    <img src="https://media.giphy.com/media/W6jfN7vS0jJTyehuuC/giphy.gif" width="100"/>
+</p>
 <div align="center">
   <a href="mailto:djsony240@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
@@ -18,9 +17,6 @@
   <a href="https://github.com/djsony240" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 </div> 
       
-    
-
-
 
 ## ⚙ Skills
 
