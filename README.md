@@ -8,7 +8,7 @@
   
 ## 👤 About Me
 
-:man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
+:man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
 
 
 ## 📇 Social & Contact
@@ -20,7 +20,6 @@
   &nbsp;
   <a href="https://github.com/djsony240" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 </div>  
-
 
 
 ## ⚙ Skills
@@ -66,3 +65,8 @@
       <tr><td> :pager: Processor architecture & design</td> <td> :vhs: Real time operating system</td></tr>
       <tr><td> :abacus: Embedded firmware development</td> <td>🌱 Linux Architecture</td></tr>
       </table>
+      
+##      
+</table>
+      <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=djsony240&style=flat&color=red&label=GITHUB+Views" height="23x" alt="Loading..!!">
