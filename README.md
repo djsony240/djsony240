@@ -36,6 +36,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Git" **alt="Git" width="40" height="40"/> </a>
 </div>
 
 ### 🛠 Technologies
@@ -47,11 +49,11 @@
   &nbsp; &nbsp;
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   &nbsp; &nbsp;
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
-  
-  
+  &nbsp; &nbsp;
+  <a href="[https://www.raspberrypi.org](https://visualstudio.microsoft.com/)/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 </div>
 
 :man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
@@ -68,8 +70,5 @@ Learning  : &ensp; &ensp;Processor architecture & design :pager:<br />
 
 
   <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
- 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
