@@ -5,7 +5,7 @@
 -->
 
 # Hi there!  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
-  
+##  
 ## 👤 About Me
 
 :man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
@@ -69,4 +69,4 @@
 ##      
 </table>
       <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=djsony240&style=flat&color=red&label=GITHUB+Views" height="23x" alt="Loading..!!">
+      <img src="https://komarev.com/ghpvc/?username=djsony240&style=flat&color=brightgreen&label=Profile+Views" height="23x" alt="Loading..!!">
