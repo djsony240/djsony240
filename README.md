@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/W6jfN7vS0jJTyehuuC/giphy.gif" width="100"/>
-</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/djsony240">
@@ -14,6 +13,7 @@
   </a>
 </div>
 
+  <img src="https://komarev.com/ghpvc/?username=djsony240&style=flat-square&color=blue" alt=""/>
 
 :man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
 :phone: &ensp;+9978534367 &emsp;  :envelope: djsony240@gmail.com  &emsp;  &ensp;:link: https://www.linkedin.com/in/djsony240
