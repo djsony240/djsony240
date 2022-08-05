@@ -1,19 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/W6jfN7vS0jJTyehuuC/giphy.gif" width="100"/>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/djsony240">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height="74" />
 </div>
+-->
+
+# Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
   
-  
+## 👤 About Me
+
+Hi there, my name is Dhaval Soni. I'm M.Tech Embedded system student at Nirma University.
+
+
 ## 📇 Social & Contact
 
 <div align="left">
