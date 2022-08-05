@@ -14,6 +14,15 @@
 </div>
   
   
+## 📇 Social & Contact
+
+<div align="left">
+  <a href="mailto:djsony240@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/djsony240" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/djsony240" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+</div>  
 
 <img src="https://komarev.com/ghpvc/?username=djsony240&style=flat-square&color=blue" alt=""/>
 
@@ -38,8 +47,4 @@ Learning  : &ensp; &ensp;Processor architecture & design :pager:<br />
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
-   <img src="" title="Git" **alt="Git" width="40" height="40"/> 
-   <img src="" title="Git" **alt="Git" width="40" height="40"/> 
-    
-    https://github.com/devicons/devicon/blob/master/icons/latex/latex.eps
 </div>
