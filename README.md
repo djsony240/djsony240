@@ -7,9 +7,10 @@
 # Hi there!  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 ##  
 ## 👤 About Me
-
+<div align="center">
+  
 :man_student:  &ensp; Dhaval Soni &emsp; &emsp;:houses: Vadodara, Gujarat &emsp; &emsp; :mortar_board:  M.Tech. in Embedded system, Nirma University <br />
-
+</div> 
 
 ## 📇 Social & Contact
 
@@ -66,6 +67,10 @@
       <tr><td> :abacus: Embedded firmware development</td> <td>🌱 Linux Architecture</td></tr>
       </table>
       
+##
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djsony240&theme=nightowl&border=FF3818)](https://git.io/streak-stats)
+
+
 ##      
 </table>
       <div align="center">
