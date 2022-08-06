@@ -61,7 +61,7 @@
       <tr><td> :control_knobs: Power electronics</td> <td>:joystick: Control systems</td></tr>
       <tr><td> :pager: Processor architecture & design</td> <td> :vhs: Advance digital system design</td></tr>
       <tr><td> :radio: Embedded system design</td> <td>🌱 Linux Architecture</td></tr>
-      <tr><td> :abacus: Embedded system programming</td> <td>:artificial_satellite: Digital signal processing</td></tr>
+      <tr><td> :abacus: Digital electronics</td> <td>:artificial_satellite: Digital signal processing</td></tr>
       </table>
 
 ## 📊 GitHub Stats
