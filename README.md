@@ -3,7 +3,7 @@
 
 <!--
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height="74" />
+  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="500" height="90" />
 </div>
 -->
 <p align="center">
@@ -18,7 +18,7 @@
 </div> 
       
 
-## ⚙ Skills
+## ⚙ Learning
 
 ### 👨‍💻 Programming
 
@@ -54,12 +54,14 @@
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 
-## :pushpin: Learning
+### :pushpin: Subjects
 
 
 <table align="center">
-      <tr><td> :pager: Processor architecture & design</td> <td> :vhs: Real time operating system</td></tr>
-      <tr><td> :abacus: Embedded firmware development</td> <td>🌱 Linux Architecture</td></tr>
+      <tr><td> :control_knobs: Power electronics</td> <td>:joystick: Control systems</td></tr>
+      <tr><td> :pager: Processor architecture & design</td> <td> :vhs: Advance digital system design</td></tr>
+      <tr><td> :radio: Embedded system design</td> <td>🌱 Linux Architecture</td></tr>
+      <tr><td> :abacus: Embedded system programming</td> <td>:artificial_satellite: Digital signal processing</td></tr>
       </table>
 
 ## 📊 GitHub Stats
@@ -112,4 +114,5 @@
 ##      
 </table>
       <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=djsony240&style=flat&color=brightgreen&label=Profile+Views" height="23x" alt="Loading..!!">
+      <img src="https://komarev.com/ghpvc/?username=djsony240&style=flat&color=brightgreen&label=Profile+Views" height="23x" alt="Loading..!!"><br />
+      <img src="https://media.giphy.com/media/xUPGcM7uZ4gQoU8kPm/giphy.gif" width="50"></h2>
