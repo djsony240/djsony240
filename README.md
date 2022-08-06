@@ -7,7 +7,7 @@
 </div>
 -->
 <p align="center">
-    <img src="https://media.giphy.com/media/W6jfN7vS0jJTyehuuC/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/W6jfN7vS0jJTyehuuC/giphy.gif" width="150"/>
 </p>
 <div align="center">
   <a href="mailto:djsony240@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
