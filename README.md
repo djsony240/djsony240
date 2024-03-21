@@ -1,5 +1,5 @@
 
-# HELLO!  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> I'm DHAVAL SONI 	:sunglasses:
+# HELLO!  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> I'm DHAVAL SONI 	
 
 <!--
 <div align="center">
