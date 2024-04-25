@@ -50,12 +50,12 @@
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 
-### :pushpin: Area of interest
+### :pushpin: Subjects
 
 
 <table align="center">
-      <tr><td> :joystick: Machine learning</td> <td>:artificial_satellite: Digital signal processing</td></tr>
-      <tr><td> :radio: Processor architecture & design</td> <td>🌱 Embedded operating system</td></tr>
+      <tr><td> :joystick: Machine learning</td>             <td>:artificial_satellite: Digital signal processing</td></tr>
+      <tr><td> :radio: Processor architecture & design</td> <td>🌱 Embedded operating system                    </td></tr>
       </table>
 
 ## 📊 GitHub Stats
