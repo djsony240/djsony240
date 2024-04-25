@@ -25,8 +25,6 @@
 <div align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
@@ -40,8 +38,6 @@
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   &nbsp; &nbsp;
@@ -58,10 +54,8 @@
 
 
 <table align="center">
-      <tr><td> :control_knobs: Power electronics</td> <td>:joystick: Control systems</td></tr>
-      <tr><td> :pager: Processor architecture & design</td> <td> :vhs: Advance digital system design</td></tr>
-      <tr><td> :radio: Embedded system design</td> <td>🌱 Embedded operating system</td></tr>
-      <tr><td> :abacus: Machine Learning</td> <td>:artificial_satellite: Digital signal processing</td></tr>
+      <tr><td> :joystick: Machine learning</td> <td>:artificial_satellite: Digital signal processing</td></tr>
+      <tr><td> :radio: Processor architecture & design</td> <td>🌱 Embedded operating system</td></tr>
       </table>
 
 ## 📊 GitHub Stats
