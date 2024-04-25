@@ -1,5 +1,5 @@
 
-# Hello!  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> I'm Dhaval Soni	
+# Hello!  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> I'm Dhaval 
 
 <!--
 <div align="center">
@@ -32,7 +32,7 @@
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Git" **alt="Git" width="40" height="40"/> </a>
 </div>
 
-### :globe_with_meridians: Technologies
+### :globe_with_meridians: Tools & Softwares
 
 <div align="left">
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
